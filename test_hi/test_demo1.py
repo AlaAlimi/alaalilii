@@ -8,3 +8,4 @@ def max(a,b):
 test_hi()
 max(3,2)
 print("hi")
+print("hi")
