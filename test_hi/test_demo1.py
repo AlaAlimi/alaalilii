@@ -5,3 +5,6 @@ def max(a,b):
         print(b)
     else:
         print(a)
+test_hi()
+max(3,2)
+print("hi")
